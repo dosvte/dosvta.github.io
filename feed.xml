@@ -3,10 +3,30 @@
     <title>Dosite</title>
     <link href="https://dosvta.github.io/feed.xml" rel="self" />
     <link href="https://dosvta.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-02-01T20:42:16+08:00</updated>
     <author>
         <name>Dos</name>
     </author>
     <id>https://dosvta.github.io</id>
 
+    <entry>
+        <title>测试</title>
+        <author>
+            <name>Dos</name>
+        </author>
+        <link href="https://dosvta.github.io/ce-shi.html"/>
+        <id>https://dosvta.github.io/ce-shi.html</id>
+
+        <updated>2026-02-01T20:42:16+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    hallow
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hallow</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
